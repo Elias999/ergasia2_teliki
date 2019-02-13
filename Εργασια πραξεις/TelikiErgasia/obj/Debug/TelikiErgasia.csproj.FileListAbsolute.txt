@@ -1,0 +1,22 @@
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\bin\Debug\TelikiErgasia.exe.config
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\bin\Debug\TelikiErgasia.exe
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\bin\Debug\TelikiErgasia.pdb
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\obj\Debug\TelikiErgasia.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\obj\Debug\TelikiErgasia.Form1.resources
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\obj\Debug\TelikiErgasia.Properties.Resources.resources
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\obj\Debug\TelikiErgasia.csproj.GenerateResource.Cache
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\obj\Debug\TelikiErgasia.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\obj\Debug\TelikiErgasia.exe
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\obj\Debug\TelikiErgasia.pdb
+C:\Users\Elias\Csharp_projects\TelikiErgasia\TelikiErgasia\obj\Debug\TelikiErgasia.calculator.resources
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\bin\Debug\TelikiErgasia.exe.config
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\bin\Debug\TelikiErgasia.exe
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\bin\Debug\TelikiErgasia.pdb
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\obj\Debug\TelikiErgasia.csprojAssemblyReference.cache
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\obj\Debug\TelikiErgasia.calculator.resources
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\obj\Debug\TelikiErgasia.Form1.resources
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\obj\Debug\TelikiErgasia.Properties.Resources.resources
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\obj\Debug\TelikiErgasia.csproj.GenerateResource.cache
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\obj\Debug\TelikiErgasia.csproj.CoreCompileInputs.cache
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\obj\Debug\TelikiErgasia.exe
+C:\Users\stath\Desktop\Εργασια πραξεις\TelikiErgasia\obj\Debug\TelikiErgasia.pdb
